@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Kotlin,Flutter
 - 💞️ I’m looking to collaborate on kotlin developer and flutter developer
 - 📫 How to reach me my own instagram @ihsnnr and my email @ihsnnr41@gmail.com
-- AndI'am looking for mentor who can teach or sharing about programming 
+- And I'am looking for mentor who can teach or sharing about programming 
 
 <!---
 ihsannur91/ihsannur91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
